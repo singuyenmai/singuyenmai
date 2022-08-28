@@ -32,6 +32,7 @@
 
 <br>
 
-<h3 align="left">I'm also on GitLab   
+<h3 align="left">I'm also on GitLab</h3>
+<p align="left">
   <a href="https://gitlab.com/singuyenmai" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="si-nguyen-thu-mai" height="30" width="40" /></a>
-</h3>
+</p>
