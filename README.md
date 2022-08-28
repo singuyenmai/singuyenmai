@@ -33,5 +33,5 @@
 <br>
 
 <h3 align="left">I'm also on GitLab   
-  <a href="https://gitlab.com/singuyenmai" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" alt="si-nguyen-thu-mai" height="30" width="40" /></a>
+  <a href="https://gitlab.com/singuyenmai" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="si-nguyen-thu-mai" height="30" width="40" /></a>
 </h3>
