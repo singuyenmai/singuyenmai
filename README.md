@@ -30,7 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singuyenmai&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="singuyenmai" /></p>
 
-<h3 align="left">I'm also on GitLab</h3>
-<p align="left">
+
+
+<h3 align="left">I'm also on GitLab   
   <a href="https://gitlab.com/singuyenmai" target="blank"><img align="center" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png" alt="si-nguyen-thu-mai" height="30" width="40" /></a>
-</p>
+</h3>
