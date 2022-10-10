@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Si Nguyen</h1>
-<h3 align="center">I generate and use computer codes to understand and engineer life :earth_asia: :milky_way: </h3>
+<h3 align="center">I generate and use computer codes to understand and engineer life 🦠 :earth_asia: :milky_way: </h3>
 
 🌱 I’m currently learning **Deep learning, Reinforcement learning, and Julia**
 
