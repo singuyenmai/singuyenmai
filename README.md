@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Si Nguyen</h1>
+<!-- <h1 align="center">Hi 👋, I'm Si Nguyen</h1>
 <h3 align="center">I generate and use computer codes to understand and engineer life 🦠 :earth_asia: :milky_way: </h3>
 
 
@@ -31,3 +31,6 @@
 <p align="left">
   <a href="https://gitlab.com/singuyenmai" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="si-nguyen-thu-mai" height="30" width="40" /></a>
 </p>
+-->
+
+<p><img align="center" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif" alt="singuyenmai" /></p>
